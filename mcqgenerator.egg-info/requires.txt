@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-xai
+xai-sdk
+streamlit
+python-dotenv
+PyPDF2

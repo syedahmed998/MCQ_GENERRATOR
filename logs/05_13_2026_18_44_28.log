@@ -1,0 +1,1 @@
+[2026-05-13 18:47:04,071] 1025 httpx -INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

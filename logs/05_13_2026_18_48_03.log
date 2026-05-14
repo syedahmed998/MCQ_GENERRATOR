@@ -1,0 +1,7 @@
+[2026-05-13 18:48:23,015] 1025 httpx -INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-05-13 18:48:24,861] 1025 httpx -INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-05-13 18:49:12,138] 1025 httpx -INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-05-13 18:49:13,831] 1025 httpx -INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-05-13 18:49:18,107] 1025 httpx -INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2026-05-13 18:49:18,110] 1068 groq._base_client -INFO - Retrying request to /openai/v1/chat/completions in 18.000000 seconds
+[2026-05-13 18:49:38,090] 1025 httpx -INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
